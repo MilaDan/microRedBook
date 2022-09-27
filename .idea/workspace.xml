@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfd367a5-e82a-453a-9b34-5023f59d4bf5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-post/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-post/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-post/src/main/java/com/chuwa/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app-post/src/test/java/com/chuwa/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/src/main/java/com/chuwa/cloudapigateway/CloudApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-api-gateway/src/test/java/com/chuwa/cloudapigateway/CloudApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/src/main/java/com/chuwa/clouddiscovery/CloudDiscoveryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-discovery/src/test/java/com/chuwa/clouddiscovery/CloudDiscoveryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cloud-discovery" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FL7tLYND0M3U1MxqTs0wHKqbAh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/bigo/Documents/githubProjects/chuwa/microredbook/cloud-discovery/src/main/resources",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.CloudDiscoveryApplication">
+    <configuration name="CloudApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuwa.cloudapigateway.CloudApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudDiscoveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuwa.clouddiscovery.CloudDiscoveryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfd367a5-e82a-453a-9b34-5023f59d4bf5" name="Changes" comment="" />
+      <created>1664259727938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664259727938</updated>
+      <workItem from="1664259729825" duration="1684000" />
+      <workItem from="1664261443147" duration="695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
