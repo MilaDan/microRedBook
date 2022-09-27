@@ -8,6 +8,7 @@
   <modules>
     <module>app-post</module>
     <module>cloud-discovery</module>
+    <module>cloud-api-gateway</module>
   </modules>
   <packaging>pom</packaging>
 
